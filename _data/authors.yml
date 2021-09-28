@@ -1,0 +1,14 @@
+Um Kim:
+  name        : "Um Kim"
+  bio         : "테크노사이언스와 미디어 그리고 우리 세계의 위험과 경제에 관심이 있다. 플랫폼화되는 세계에서 공간과 감정, 정체성이 조직되는 방식을 탐구하고 있고 조사에 유용한 디지털도구의 디자인과 협업 양식을 찾고 있다. 공간주의 웹플랫폼을 구현해 운영 중이다."
+  avatar      : "/assets/images/bio-photo-umkim.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "shavingmace@infralogikasoc.onmicrosoft.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://attention-to-space.neocities.org/"
+    #- label: "Twitter"
+     # icon: "fab fa-fw fa-twitter-square"
+      #url: "https://twitter.com/extravagantman"
